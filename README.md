@@ -1,5 +1,75 @@
-# 💫 About Me:
-# 👋 Hi, I'm Mohammad Zaid Ansari<br><br>🚀 **Final Year B.Tech CSE (AI) Student | Data Science & AI/ML Enthusiast**<br><br>---<br><br>## 🌟 About Me<br><br>* 🎓 Final-year Computer Science student specializing in Artificial Intelligence<br>* 🤖 Passionate about **Data Science, Machine Learning & Generative AI**<br>* 💡 Love building real-world AI-powered applications<br>* 📊 Strong interest in **data-driven problem solving**<br>* 🎯 Currently looking for **Data Science / AI-ML Internship opportunities**<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 👨‍💻 Languages<br><br>* Python 🐍<br>* SQL 🗄️<br>* Java ☕<br><br>### 📊 Data Science & ML<br><br>* Pandas, NumPy<br>* Scikit-learn<br>* Matplotlib, Seaborn<br>* Machine Learning Algorithms<br><br>### 🤖 AI & Gen AI<br><br>* NLP (Natural Language Processing)<br>* GPT / LLM Integration<br>* Sentiment Analysis<br><br>### 🌐 Web & Tools<br><br>* FastAPI ⚡<br>* Streamlit 📊<br>* PostgreSQL 🐘<br>* Git & GitHub 🔧<br>
+# 💫 About Me:## 🚀 Mohammad Zaid Ansari
+
+🎓 Final Year B.Tech (CSE - AI)  
+💡 Aspiring Data Scientist | AI/ML Enthusiast  
+📍 India  
+
+---
+
+### 👨‍💻 About Me
+- 🎯 Passionate about **Data Science & Machine Learning**
+- 📊 Love working with **data, analytics & AI models**
+- 🤖 Currently exploring **Gen AI & LLMs**
+- 🧠 Building projects that solve **real-world problems**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Python 🐍  
+- SQL  
+- C++  
+
+**Data Science & ML**
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
+- Seaborn  
+
+**Tools & Technologies**
+- Git & GitHub  
+- FastAPI  
+- PostgreSQL  
+- Streamlit  
+
+---
+
+### 📂 Projects
+
+🔹 **MindTrack**  
+AI-powered mental health journal using NLP & sentiment analysis  
+
+🔹 **Stock Dashboard**  
+Interactive stock visualization using Streamlit  
+
+🔹 **PDF to Animated Slides (AI)**  
+Converts handwritten notes into animated explanations  
+
+---
+
+### 📈 GitHub Stats
+
+⭐ Always learning, always building!
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🌐 Portfolio: your-portfolio-link  
+
+---
+
+### ⚡ Fun Fact
+> I turn ☕ coffee into 📊 data insights
+
+---
+
+## ⭐ Support
+If you like my work, give a ⭐ to my repositories!
 
 
 # 💻 Tech Stack:

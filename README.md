@@ -57,8 +57,8 @@ Converts handwritten notes into animated explanations
 
 ### 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: izaid0231@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/md-zaid-ansari-ba4059357/ 
 - 🌐 Portfolio: your-portfolio-link  
 
 ---

@@ -1,4 +1,4 @@
-# 💫 About Me:# 🚀 Md Zaid Ansari
+About Me: Md Zaid Ansari
 
 🎓 Final Year B.Tech (CSE - AI)  
 💡 Aspiring Data Scientist | AI/ML Enthusiast  
